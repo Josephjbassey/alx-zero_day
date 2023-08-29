@@ -1,7 +1,7 @@
 
 # 0x03-git
 
-This project is to demonstrate our knowledge for git and github.
+This project is to demonstrate our knowledge of git and github.
 
 We will be using the git commands to clone, add, commit, push, pull request  and merge from our terminal 
 
